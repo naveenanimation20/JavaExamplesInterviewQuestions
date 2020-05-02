@@ -14,8 +14,12 @@ public class FactorialNumber {
 	}
 
 	public static void getFact(int num) {
+<<<<<<< HEAD
 		System.out.println("get fact number");
 		System.out.println("my code....");
+=======
+		System.out.println("this is my fact code");
+>>>>>>> 98d24d1d0fe65b0ab72a1399f95adae7fe19e9ae
 		int fact = 1;
 
 		for (int i = 1; i <= num; i++) {
