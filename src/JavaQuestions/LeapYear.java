@@ -36,5 +36,8 @@ public class LeapYear {
 		}
 
 	}
+	public void getName(){
+		System.out.println("get name method.....Naveen Master");
+	}
 
 }
