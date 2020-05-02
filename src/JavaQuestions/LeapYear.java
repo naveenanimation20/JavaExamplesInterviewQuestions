@@ -4,11 +4,6 @@ public class LeapYear {
 
 	public static void main(String[] args) {
 
-		
-		System.out.println("leap year -- Naveen");
-		System.out.println("leap year -- testing");
-
-
 		// divisble by 4 for all the century years -- ending with 00
 
 		// century year is leap year only when its perfectly divisble by 400.
