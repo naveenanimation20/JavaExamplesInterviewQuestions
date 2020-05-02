@@ -27,17 +27,17 @@ public class LeapYear {
 		} else {
 			leap = false;
 		}
-		
-		if(leap){
+
+		if (leap) {
 			System.out.println(year + " is a leap year");
-		}
-		else{
+		} else {
 			System.out.println(year + " is not a leap year");
 		}
 
 	}
-	public void getName(){
-		System.out.println("get name method.....Naveen Master");
+
+	public void getName() {
+		System.out.println("get name method.....");
 	}
 
 }
