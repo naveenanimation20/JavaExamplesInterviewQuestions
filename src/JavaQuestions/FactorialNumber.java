@@ -14,6 +14,7 @@ public class FactorialNumber {
 	}
 
 	public static void getFact(int num) {
+
 		System.out.println("this is my fact code");
 		int fact = 1;
 
