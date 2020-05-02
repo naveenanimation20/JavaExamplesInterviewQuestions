@@ -10,7 +10,6 @@ public class AsciiChar {
 	public static void main(String[] args) {
 		System.out.println("ASCII char master");
 
-
 		char c = 'a'; // 97
 		int ascii = c;
 
