@@ -8,6 +8,8 @@ package JavaQuestions;
 public class AddNumbers {
 
 	public static void main(String[] args) {
+	System.out.println("add numbers in Master BRANCH");
+
 
 		int a = 10;
 		int b = 20;
